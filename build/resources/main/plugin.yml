@@ -1,0 +1,4 @@
+name: mcapi
+version: '1.0'
+main: su.molnikas.mcapi.Mcapi
+api-version: '1.20'
